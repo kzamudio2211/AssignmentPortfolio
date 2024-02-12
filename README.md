@@ -1,2 +1,2 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+# Portfolio for Software Engineering
+This website hosts all my projects for Software Engineering. Template created by Eric Pogue
